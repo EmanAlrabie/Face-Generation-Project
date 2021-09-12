@@ -1,5 +1,5 @@
 # Face-Generation-Project
-define and train a DCGAN on a dataset of faces to get a generator network to generate new images of faces that look as realistic as possible.
+Define and train a DCGAN on a dataset of faces to get a generator network to generate new images of faces that look as realistic as possible.
 You can reach the dataset which used in this project by this link http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html .
 
 Pre-requisites
